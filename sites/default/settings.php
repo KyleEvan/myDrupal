@@ -729,8 +729,10 @@ $settings['container_yamls'][] = $app_root . '/' . $site_path . '/services.yml';
  * example.org, with all subdomains included.
  */
  $settings['trusted_host_patterns'] = [
- '^localhost$',
+ '^localhost',
+ '^debian',
  '^128\.151\.108\.211$',
+ '^192\.168\.50\.82$',
  '^127\.0\.0\.1$',
  ];
 /**
@@ -773,9 +775,9 @@ $settings['entity_update_batch_size'] = 50;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'git_drupal_db',
-  'username' => 'root',
-  'password' => '',
+  'database' => 'personal_drupal',
+  'username' => 'user',
+  'password' => 'secret',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',

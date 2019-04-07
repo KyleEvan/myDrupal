@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="077a3137-a0ca-4edf-a9d1-3ae9bbb70a34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/core/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/MAINTAINERS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/MAINTAINERS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/vendor/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/vendor/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/core/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.api.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/core.api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/includes/file.inc" beforeDir="false" afterPath="$PROJECT_DIR$/core/includes/file.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Datetime/Element/Datetime.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Datetime/Element/Datetime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Installer/Form/SiteConfigureForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Installer/Form/SiteConfigureForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Plugin/Context/ContextHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Plugin/Context/ContextHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Render/Element/Container.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Render/Element/Container.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Template/TwigEnvironment.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Template/TwigEnvironment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Template/TwigNodeTrans.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Template/TwigNodeTrans.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Update/UpdateKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Update/UpdateKernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/Validation/Plugin/Validation/Constraint/UniqueFieldValueValidator.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/Validation/Plugin/Validation/Constraint/UniqueFieldValueValidator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/misc/states.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/misc/states.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/misc/states.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/misc/states.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/block/tests/src/Functional/Update/BlockConditionMissingSchemaUpdateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/block/tests/src/Functional/Update/BlockConditionMissingSchemaUpdateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/content_moderation/src/Entity/Handler/NodeModerationHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/content_moderation/src/Entity/Handler/NodeModerationHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/content_moderation/tests/src/Functional/ModerationStateNodeTypeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/content_moderation/tests/src/Functional/ModerationStateNodeTypeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/datetime/tests/src/Functional/DateTimeTimeAgoFormatterTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/datetime/tests/src/Functional/DateTimeTimeAgoFormatterTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/field/tests/src/Functional/Update/FieldUpdateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/field/tests/src/Functional/Update/FieldUpdateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/field/tests/src/Kernel/Migrate/d6/MigrateFieldInstanceLabelDescriptionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/field/tests/src/Kernel/Migrate/d6/MigrateFieldInstanceLabelDescriptionTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/file/file.module" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/file/file.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/file/src/Plugin/rest/resource/FileUploadResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/file/src/Plugin/rest/resource/FileUploadResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/file/src/Tests/FileFieldWidgetTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/file/src/Tests/FileFieldWidgetTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/file/tests/src/Functional/SaveUploadTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/file/tests/src/Functional/SaveUploadTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/hal/src/Normalizer/FieldItemNormalizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/hal/src/Normalizer/FieldItemNormalizer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/hal/tests/src/Kernel/DenormalizeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/hal/tests/src/Kernel/DenormalizeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/src/Controller/ChooseBlockController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/src/Controller/ChooseBlockController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/src/Controller/LayoutBuilderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/src/Controller/LayoutBuilderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/src/Plugin/SectionStorage/DefaultsSectionStorage.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/src/Plugin/SectionStorage/DefaultsSectionStorage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/src/Plugin/SectionStorage/OverridesSectionStorage.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/src/Plugin/SectionStorage/OverridesSectionStorage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/Functional/LayoutBuilderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/Functional/LayoutBuilderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/FunctionalJavascript/InlineBlockPrivateFilesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/FunctionalJavascript/InlineBlockPrivateFilesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/Unit/OverridesSectionStorageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/layout_builder/tests/src/Unit/OverridesSectionStorageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/link/tests/src/Kernel/LinkItemSerializationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/link/tests/src/Kernel/LinkItemSerializationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/fixtures/drupal7.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/fixtures/drupal7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/quickedit/src/Tests/QuickEditAutocompleteTermTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/quickedit/src/Tests/QuickEditLoadingTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/responsive_image/tests/src/Functional/Update/ResponsiveImageUpdateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/responsive_image/tests/src/Functional/Update/ResponsiveImageUpdateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/rest/tests/src/Functional/FileUploadResourceTestBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/rest/tests/src/Functional/FileUploadResourceTestBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/serialization/src/Normalizer/FieldItemNormalizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/serialization/src/Normalizer/FieldItemNormalizer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/serialization/tests/src/Kernel/EntitySerializationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/serialization/tests/src/Kernel/EntitySerializationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/serialization/tests/src/Unit/Normalizer/EntityReferenceFieldItemNormalizerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/serialization/tests/src/Unit/Normalizer/EntityReferenceFieldItemNormalizerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/serialization/tests/src/Unit/Normalizer/TimestampItemNormalizerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/serialization/tests/src/Unit/Normalizer/TimestampItemNormalizerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/simpletest/tests/src/Functional/FolderTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/simpletest/tests/src/Functional/MailCaptureTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/simpletest/tests/src/Functional/UserHelpersTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_extension_test/src/TwigExtension/TestExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_extension_test/src/TwigExtension/TestExtension.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/src/TwigThemeTestController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/src/TwigThemeTestController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.module" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_schema/update_test_schema.install" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_schema/update_test_schema.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Theme/TwigRegistryLoaderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Theme/TwigRegistryLoaderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Theme/TwigSettingsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Theme/TwigSettingsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Update/EntityUpdateAddRevisionDefaultTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Update/EntityUpdateAddRevisionDefaultTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Update/EntityUpdateAddRevisionTranslationAffectedTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/src/Functional/Update/EntityUpdateAddRevisionTranslationAffectedTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/system/tests/src/Kernel/Theme/TwigNamespaceTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/system/tests/src/Kernel/Theme/TwigNamespaceTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/taxonomy/src/Plugin/migrate/source/d6/VocabularyPerType.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/taxonomy/src/Plugin/migrate/source/d6/VocabularyPerType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserPictureEntityDisplayTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserPictureEntityFormDisplayTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserPictureFieldInstanceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserPictureFieldTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserProfileEntityDisplayTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserProfileEntityFormDisplayTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserProfileFieldInstanceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/user/tests/src/Kernel/Migrate/MigrateUserProfileFieldTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/config/optional/block.block.umami_banner_recipes.yml" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/config/optional/block.block.umami_banner_recipes.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/articles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/articles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/pages.csv" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/pages.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/recipes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/default_content/recipes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/src/InstallHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/src/InstallHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/tests/src/Functional/UninstallDefaultContentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/modules/demo_umami_content/tests/src/Functional/UninstallDefaultContentTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/css/components/content/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/css/components/content/card/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/css/components/messages/messages.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/css/components/messages/messages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/templates/content/node--card-common.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/templates/content/node--card-common.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/templates/content/node--card.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/core/profiles/demo_umami/themes/umami/templates/content/node--card.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/scripts/drupal" beforeDir="false" afterPath="$PROJECT_DIR$/core/scripts/drupal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/FunctionalJavascriptTests/DrupalSelenium2Driver.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/FunctionalJavascriptTests/DrupalSelenium2Driver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Datetime/TimestampAgoFormatterTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Datetime/TimestampAgoFormatterTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Update/UpdatePathTestBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Update/UpdatePathTestBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Update/UpdatePathTestBaseTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/FunctionalTests/Update/UpdatePathTestBaseTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/KernelTests/Core/File/DirectoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/KernelTests/Core/File/DirectoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/KernelTests/Core/Theme/TwigEnvironmentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/KernelTests/Core/Theme/TwigEnvironmentTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Component/DependencyInjection/Fixture/container_test_file_service_test_service_function.data" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Component/DependencyInjection/Fixture/container_test_file_service_test_service_function.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_-_WA8BvOKHGumWMnbIDe26G1LMFuJkV0cRicN6YPSlw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_-_WA8BvOKHGumWMnbIDe26G1LMFuJkV0cRicN6YPSlw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_0MHHeY_O6lIJLthZIZpHfcorWSKjX4WWXFMEPoDwLN4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_0MHHeY_O6lIJLthZIZpHfcorWSKjX4WWXFMEPoDwLN4.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_1mis7ecHuYkLrZ2LHXyjZ_xeufEid3uZd-gJfhWzdOI.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_1mis7ecHuYkLrZ2LHXyjZ_xeufEid3uZd-gJfhWzdOI.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_1pna8g9-5gAskfoncnHbUHLVuIkiyQqzLKJzUqzhRvY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_1pna8g9-5gAskfoncnHbUHLVuIkiyQqzLKJzUqzhRvY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_21JRat9UzTXB62sMbDx7E8CQnoB8ohnrynMtxQzZCSY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_21JRat9UzTXB62sMbDx7E8CQnoB8ohnrynMtxQzZCSY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_5u2QxDo__ZfaR2NNVXvJB2ndydiZBvqtwc3UIm5J5oY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_5u2QxDo__ZfaR2NNVXvJB2ndydiZBvqtwc3UIm5J5oY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_73BebecnJvigPgkoYrVZhYpiRF3q2fX9mBh9rKDyA2s.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_73BebecnJvigPgkoYrVZhYpiRF3q2fX9mBh9rKDyA2s.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_7PTbYEKLYoOsWznT8OHsJ0R7pdXtDFbybQZIsMk-mlQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_7PTbYEKLYoOsWznT8OHsJ0R7pdXtDFbybQZIsMk-mlQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_7QDEFdvjXrQWw9sHWpLwmp1jEwSvggQyWOVbHMG9TbA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_7QDEFdvjXrQWw9sHWpLwmp1jEwSvggQyWOVbHMG9TbA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_8laR-atKJ2yAXcqY_V7iFAVQ08uFgj-dm1BaZ277knI.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_8laR-atKJ2yAXcqY_V7iFAVQ08uFgj-dm1BaZ277knI.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_F0SlNdH4z2HDONQSu6LwOFDpSZvhjbcrUMXc1VkzdHI.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_F0SlNdH4z2HDONQSu6LwOFDpSZvhjbcrUMXc1VkzdHI.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_F0Y4H3wHFhRHBcDatIr4yrnDRDxiwEU41-xBFxuLXCk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_F0Y4H3wHFhRHBcDatIr4yrnDRDxiwEU41-xBFxuLXCk.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Fqdocbn3wHO0EMHVPMEN_ge3IAImWu_7_jkIxqNsP8Q.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Fqdocbn3wHO0EMHVPMEN_ge3IAImWu_7_jkIxqNsP8Q.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_G5NRp5WOQ-_wlWZ5NoOqInQRtGtdnVh1BdtnqXrSEkk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_G5NRp5WOQ-_wlWZ5NoOqInQRtGtdnVh1BdtnqXrSEkk.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_I9Ct7qMDs-5YfUU1voSsjxZajqVRa9u6qNRIxFC_Hew.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_I9Ct7qMDs-5YfUU1voSsjxZajqVRa9u6qNRIxFC_Hew.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_J-KGgLp_uXNJjHPTyqNZ31pTqzCFPnhyQcOPLMOD_Lk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_J-KGgLp_uXNJjHPTyqNZ31pTqzCFPnhyQcOPLMOD_Lk.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_J-f0VrQviEfs31B-WhB8wYlKKcoyI8jYYhUbU592zSs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_J-f0VrQviEfs31B-WhB8wYlKKcoyI8jYYhUbU592zSs.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_JKNZD3jZaMOxPpB4XHMJ5q2gOMqmx2BfnpKTG-OOSVQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_JKNZD3jZaMOxPpB4XHMJ5q2gOMqmx2BfnpKTG-OOSVQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_LN1aOA6cIKnLjcfaVG3ulJF0zMJexSNWXIsjONH6Axw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_LN1aOA6cIKnLjcfaVG3ulJF0zMJexSNWXIsjONH6Axw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_LWJfjJNTVlfjBTXKmtXPb0cI6CxO-Whi7ObB6qDjHqI.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_LWJfjJNTVlfjBTXKmtXPb0cI6CxO-Whi7ObB6qDjHqI.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_MV_gkHuo-rymBxOc_LaGHhRgvKpek2cX4-VMB3wA5OE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_MV_gkHuo-rymBxOc_LaGHhRgvKpek2cX4-VMB3wA5OE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_NLba-2EyBmhWPURT64BgDiSFb89sbE_0ED9AcramIi8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_NLba-2EyBmhWPURT64BgDiSFb89sbE_0ED9AcramIi8.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_NphqXzgEZGKhDxJPG1gxXp0voVEOOa419pT1KV1l-zE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_NphqXzgEZGKhDxJPG1gxXp0voVEOOa419pT1KV1l-zE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_P8gCapOcdwdWCothaIppq--ypZk69J2y3qh0DYo_KqE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_P8gCapOcdwdWCothaIppq--ypZk69J2y3qh0DYo_KqE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_QVnQgzqPjz1PXH81HP5EZLuUaQOMoXc1_T08Fxapt4s.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_QVnQgzqPjz1PXH81HP5EZLuUaQOMoXc1_T08Fxapt4s.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_SWWL04-sb0T0BQdn5xr3H4XMSmraDBKE8a5hn4mpkcs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_SWWL04-sb0T0BQdn5xr3H4XMSmraDBKE8a5hn4mpkcs.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_T6WMqAUc20rcR7CuOMRiDZfqf1usrcMxBRMDdZ8O6yc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_T6WMqAUc20rcR7CuOMRiDZfqf1usrcMxBRMDdZ8O6yc.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_TPJlHCTFFPsbb8YOXYXCAWCsTheJef5aprnp-45g0PA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_TPJlHCTFFPsbb8YOXYXCAWCsTheJef5aprnp-45g0PA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Tin8TGqLbPF_Fbi2k29s5HvM2JAEr24xXy1nIsNfGmE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Tin8TGqLbPF_Fbi2k29s5HvM2JAEr24xXy1nIsNfGmE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UEbDFb5EcaulKKyiAGQaT9x4c2sf-Gd7QTQkBTQmWsE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UEbDFb5EcaulKKyiAGQaT9x4c2sf-Gd7QTQkBTQmWsE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UYoHjF2BdaCwUkoQxBSbIJM2Th4bZfs3mTFmSjggK7I.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_UYoHjF2BdaCwUkoQxBSbIJM2Th4bZfs3mTFmSjggK7I.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_VHY4Stk6PLOhr3JE5uYuHyyzGPvQ0IiOn2IjHwIF0I0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_VHY4Stk6PLOhr3JE5uYuHyyzGPvQ0IiOn2IjHwIF0I0.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_VY65lftD595IVveo3nXXLh7CNjBoDOzw0F5WNPURf78.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_VY65lftD595IVveo3nXXLh7CNjBoDOzw0F5WNPURf78.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_W6VPcn-HXiFo6rpsXkYXk_iJTz-IhKzAPOna2S-Fycw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_W6VPcn-HXiFo6rpsXkYXk_iJTz-IhKzAPOna2S-Fycw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_WXnB5CssS5madXFUjhhp_1IqADT4r17EQVsVSUk-vPE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_WXnB5CssS5madXFUjhhp_1IqADT4r17EQVsVSUk-vPE.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_X4nhXKUjx1gpG9Z7MX2bngCd5JGYg47FWXs0SiJa7bY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_X4nhXKUjx1gpG9Z7MX2bngCd5JGYg47FWXs0SiJa7bY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Xpv4d8CuhWKCP87uzQ4rmaD6RYfqMB1hrrktsHxbkaA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Xpv4d8CuhWKCP87uzQ4rmaD6RYfqMB1hrrktsHxbkaA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_XzmX3tKa7v4FTWlmhjobB26WEyM-ptKAmYwT4h_ve6U.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_XzmX3tKa7v4FTWlmhjobB26WEyM-ptKAmYwT4h_ve6U.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y088gtm0o4gvKf9lmO81BDJC1uvfzj9noqfel0yZKWQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y088gtm0o4gvKf9lmO81BDJC1uvfzj9noqfel0yZKWQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YtG0vLtC5PKXQA9Nv8xK6a4ftTHeYOiUoAg57cmr9Vw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YtG0vLtC5PKXQA9Nv8xK6a4ftTHeYOiUoAg57cmr9Vw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YvRMQ9jdj0wpmXejaLbnD_cPp63wYkQtCKRhPCYHaw4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YvRMQ9jdj0wpmXejaLbnD_cPp63wYkQtCKRhPCYHaw4.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YyWoJzyzwF6w5_uCeUlkWhJt0k0iwzgFiZbzWsObdSM.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_YyWoJzyzwF6w5_uCeUlkWhJt0k0iwzgFiZbzWsObdSM.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css__2EkmP4HKjXdwQVj9tkxNETXRkFguNUxDoI9GxhSpjM.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css__2EkmP4HKjXdwQVj9tkxNETXRkFguNUxDoI9GxhSpjM.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_b7605Yk3jfZxTi3TxmDhgJA5ENySh_CjhL_qlzX44Dc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_b7605Yk3jfZxTi3TxmDhgJA5ENySh_CjhL_qlzX44Dc.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_cFVulFbZVwP5h1z6YwDAYRLbVwMFeJaph_CbvyEUU2Y.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_cFVulFbZVwP5h1z6YwDAYRLbVwMFeJaph_CbvyEUU2Y.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_cvl27djg05zrZxshiCKRx52MptIGun4BJ9FOUx50Bn8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_cvl27djg05zrZxshiCKRx52MptIGun4BJ9FOUx50Bn8.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_g6Y8pfnMy5NZU8eeN7g-DOx-TnanNDR2zmnRmS1sQGY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_g6Y8pfnMy5NZU8eeN7g-DOx-TnanNDR2zmnRmS1sQGY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_g736T3BBUZlfvEG-oNNHRG76p5CabZap50KjDdgEnWA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_g736T3BBUZlfvEG-oNNHRG76p5CabZap50KjDdgEnWA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_heFVu0XHYAHtINWCfsJR2xuU10Egvygr-rxmIY0gbhw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_heFVu0XHYAHtINWCfsJR2xuU10Egvygr-rxmIY0gbhw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_hkIFNEAes0ro900m12FvjD8pXkT8wwoWa5yrGaUsLZQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_hkIFNEAes0ro900m12FvjD8pXkT8wwoWa5yrGaUsLZQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_imYjfj2yrjIYRVnwxgSZXt0t68hfq7dd_pddmqf08go.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_imYjfj2yrjIYRVnwxgSZXt0t68hfq7dd_pddmqf08go.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_jZKWC20nmdMg5V1N0AVpl_8Ex0VdJeh2ZljTVJDLa7c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_jZKWC20nmdMg5V1N0AVpl_8Ex0VdJeh2ZljTVJDLa7c.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_khRWnJB7eIQhaia9UhS0sgn_0jhGcGLmbZy-xQdFXGg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_khRWnJB7eIQhaia9UhS0sgn_0jhGcGLmbZy-xQdFXGg.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_laq3uwihVjkCzTaaggdVSDLiEUjq07TSlfvLVhroGFw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_laq3uwihVjkCzTaaggdVSDLiEUjq07TSlfvLVhroGFw.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_lte-8CBZPuu6BZt_6v_nK8llFvNTED_xEC7GxJLaFz8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_lte-8CBZPuu6BZt_6v_nK8llFvNTED_xEC7GxJLaFz8.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_lx7stlJNOGlFeZdH_Kwm8SV2NVX5y3J-QWrX4YQcOd4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_lx7stlJNOGlFeZdH_Kwm8SV2NVX5y3J-QWrX4YQcOd4.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_m9jNlqFjL5ibxrJvvxkChrFIEtfUewY0tXnxsQSNs1o.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_m9jNlqFjL5ibxrJvvxkChrFIEtfUewY0tXnxsQSNs1o.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_mNZLnOzK7yABTo0mOJA_jIfBNczK8FzUcjJJa6Jb22A.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_mNZLnOzK7yABTo0mOJA_jIfBNczK8FzUcjJJa6Jb22A.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_mrewszJ3mw6NccH6sG3u9Cd2CTR8xhR5ahfMV53ZeEY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_mrewszJ3mw6NccH6sG3u9Cd2CTR8xhR5ahfMV53ZeEY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_n4_RHbgMa2seT0zZzuRQ6odefzli3XNTg6tXQmdv65g.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/css/css_n4_RHbgMa2seT0zZzuRQ6odefzli3XNTg6tXQmdv65g.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_n9ywxHa3jOD_ZsGRkgQECTFCEWHOk-eLda9nuXAte6A.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_n9ywxHa3jOD_ZsGRkgQECTFCEWHOk-eLda9nuXAte6A.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_nXxscGPyqTw7XsCYZ2Jaq4FM_2nYpKUjCxAzTCuirTU.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_nXxscGPyqTw7XsCYZ2Jaq4FM_2nYpKUjCxAzTCuirTU.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_oCHBWlHzEcPdWg96eke7qR8DvuqDwARIjxy2V8FqOYs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_oCHBWlHzEcPdWg96eke7qR8DvuqDwARIjxy2V8FqOYs.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_p5BZx6OZ9uKaI08L2qNbZVG1Vv2sO7wvrt1CFdzaIcc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_p5BZx6OZ9uKaI08L2qNbZVG1Vv2sO7wvrt1CFdzaIcc.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_pSSU25JbPzLwt0mU8QDMpDJ2juZpwoD43V7Fj-IlElA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_pSSU25JbPzLwt0mU8QDMpDJ2juZpwoD43V7Fj-IlElA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_qmd6mO5ja7Gf9bhCQkzcM8Q3gTD-hVlMp7Lgf1P92_4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_qmd6mO5ja7Gf9bhCQkzcM8Q3gTD-hVlMp7Lgf1P92_4.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_t1BU7AP0LTiYarTJ8ht8QEqfpinUrvztTTjBix_pYl0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_t1BU7AP0LTiYarTJ8ht8QEqfpinUrvztTTjBix_pYl0.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tYNrNvXXQEIgtbJcRpCGvx3MH8lBYSQVVig9L1lckSA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tYNrNvXXQEIgtbJcRpCGvx3MH8lBYSQVVig9L1lckSA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tsAjGPHHgiYHkYA6yz6OfflfjxYh1dy1Lhk3fo_ydf8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tsAjGPHHgiYHkYA6yz6OfflfjxYh1dy1Lhk3fo_ydf8.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tw30M1bBYsrI05pbjBURXubspu91pfuPAwFCxDeI-y8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_tw30M1bBYsrI05pbjBURXubspu91pfuPAwFCxDeI-y8.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_urNTgPFCWt6kz6zdAMgXIBHhKIVOCu4aESg0KmQ9upY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_urNTgPFCWt6kz6zdAMgXIBHhKIVOCu4aESg0KmQ9upY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_vVQzKcCUOumVjnEg1qGad02kOP8shg80KXJl98Jv6NQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_vVQzKcCUOumVjnEg1qGad02kOP8shg80KXJl98Jv6NQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wARHhXvWQ5mJ8ERHWTzStt7MFxG6Pa2GYC5GqGFIuSU.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wARHhXvWQ5mJ8ERHWTzStt7MFxG6Pa2GYC5GqGFIuSU.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wBkctkOxQSh8-eqI2MTBv4zK-joOZ1jgnhNWWUwdcFo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wBkctkOxQSh8-eqI2MTBv4zK-joOZ1jgnhNWWUwdcFo.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wKaU4wm5cfq16z3mzxoQV71xPBoY5dFr2NRnz4xTg9o.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wKaU4wm5cfq16z3mzxoQV71xPBoY5dFr2NRnz4xTg9o.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wLhLGpe4yT0VbMc1GjQmJeQ9On8hliF46ytBfWlL3Ec.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_wLhLGpe4yT0VbMc1GjQmJeQ9On8hliF46ytBfWlL3Ec.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_y_Ib2BZgHfpuPu3DpaMJRQWyazYa7OfdyHs7bb5ix1I.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/css/css_y_Ib2BZgHfpuPu3DpaMJRQWyazYa7OfdyHs7bb5ix1I.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_-KKpbM0mIZpCAz1TRcFfZDO20k4B8jEF1KDt99YbX3g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_-KKpbM0mIZpCAz1TRcFfZDO20k4B8jEF1KDt99YbX3g.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_-QVF8TzkBr95q1H-DWr4yz1x2c_Rg-ppiviyaJRAtOc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_-QVF8TzkBr95q1H-DWr4yz1x2c_Rg-ppiviyaJRAtOc.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_12L2VHFpY1gdK3jjF2bR_SIc0WMSKtfoAAnGW_HM9f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_12L2VHFpY1gdK3jjF2bR_SIc0WMSKtfoAAnGW_HM9f0.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_1IBqwOOFCrKKwv4IO5BMyOgUmaRO_DsCf84q5pkw5-M.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_1IBqwOOFCrKKwv4IO5BMyOgUmaRO_DsCf84q5pkw5-M.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_1nXFKWi59LHxxZLAHogpc6CgrEChLmAm4eLbFP-D-E4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_1nXFKWi59LHxxZLAHogpc6CgrEChLmAm4eLbFP-D-E4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_1rSDxTeuoORJwDYxhkIQpiTxLPzfK7yKL5vdOitqJU8.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_1rSDxTeuoORJwDYxhkIQpiTxLPzfK7yKL5vdOitqJU8.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_2dbk1tot3fgKKBH4cBXYhJystn_OJx5-9zWpGzhWXxU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_2dbk1tot3fgKKBH4cBXYhJystn_OJx5-9zWpGzhWXxU.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_38sGjkMqg0zk3iLHHxxoBa1947laLT9phXEETcUqenk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_38sGjkMqg0zk3iLHHxxoBa1947laLT9phXEETcUqenk.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_6-2l3l4kt2WysewCAFxzW99u8rz6UEkD7_EOvLYpaP4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_6-2l3l4kt2WysewCAFxzW99u8rz6UEkD7_EOvLYpaP4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_6JosW1bC0KyMxDNd266cVTUfIXpMBhlUclZl1hdS4mU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_6JosW1bC0KyMxDNd266cVTUfIXpMBhlUclZl1hdS4mU.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_7mU2Vv-7XqQ3yEWRrpN2GNbxCESLjie2gz-xAVSUkEA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_7mU2Vv-7XqQ3yEWRrpN2GNbxCESLjie2gz-xAVSUkEA.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_9dqApEncKz5rL97Jt3f5AjcoaPAZXwEZaqZs2fsTmTg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_9dqApEncKz5rL97Jt3f5AjcoaPAZXwEZaqZs2fsTmTg.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_A5m5ygbZg-BQJO6hZjRPPGe0pcV1EKaZdYI-7XNSdw4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_A5m5ygbZg-BQJO6hZjRPPGe0pcV1EKaZdYI-7XNSdw4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_AG5UqNhp0zPuBv6KiCFWhLxuJevcMH--bBgVgvZ0_3I.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_AG5UqNhp0zPuBv6KiCFWhLxuJevcMH--bBgVgvZ0_3I.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BGoWzdaNA4xdQ9uzi6eilXYzzaXZOw1UjkLBRpjcIJY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BGoWzdaNA4xdQ9uzi6eilXYzzaXZOw1UjkLBRpjcIJY.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BM-ofGRtdcevOy-z4xqwIW_sDBMwRZOTLTY69bQKONw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BM-ofGRtdcevOy-z4xqwIW_sDBMwRZOTLTY69bQKONw.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BZmepl2LhFzO15mjCTgo4GcecwW22WIO97nlGuJfw3E.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BZmepl2LhFzO15mjCTgo4GcecwW22WIO97nlGuJfw3E.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_BikGl6St-u4piARheRO-gjiVCZQAn-fvIqOPiMBXhtc.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_BikGl6St-u4piARheRO-gjiVCZQAn-fvIqOPiMBXhtc.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CYAKW1SNjlWiXLpKSPnVAAYsRrOylGNWSg73A-IgEXo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CYAKW1SNjlWiXLpKSPnVAAYsRrOylGNWSg73A-IgEXo.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CrtvW_C_3fIjv7xN_raLSY79cX0IKRDcr9NqYNa91Os.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_CrtvW_C_3fIjv7xN_raLSY79cX0IKRDcr9NqYNa91Os.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_F4ij7nxFjGInEolpWphkZgDsh29k9g5-1h_2BH1TMj8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_F4ij7nxFjGInEolpWphkZgDsh29k9g5-1h_2BH1TMj8.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_FOhqyI7FfT2s5Z9AnA9J4FQ6Vkwx-VLio9C--OYp3eQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_FOhqyI7FfT2s5Z9AnA9J4FQ6Vkwx-VLio9C--OYp3eQ.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_FUtswnO2IWhWWQB-_zGydD-qd0Fx1OkHXxJTuBmHaMQ.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_FUtswnO2IWhWWQB-_zGydD-qd0Fx1OkHXxJTuBmHaMQ.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_FplsGq4fXyHZKWP5rauqGIRRx-bsTd4Zt2eUBllqvd0.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_FplsGq4fXyHZKWP5rauqGIRRx-bsTd4Zt2eUBllqvd0.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_G17laJxiVHbvu2HXWX8fS0kYdyVRJ-ABYSJfuUU52rU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_G17laJxiVHbvu2HXWX8fS0kYdyVRJ-ABYSJfuUU52rU.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_GXew5gapFtITQmThbLpESdkqPBqbdqGoksYABPLRD9Q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_GXew5gapFtITQmThbLpESdkqPBqbdqGoksYABPLRD9Q.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_H7I1sD9R7zI7klOSdNdltD_y0XH4MQOjGYUizodVTlE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_H7I1sD9R7zI7klOSdNdltD_y0XH4MQOjGYUizodVTlE.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_K8iwFW8dt9t1x3Oe1HPayt4d4n_Cz0h691genPCwsiA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_K8iwFW8dt9t1x3Oe1HPayt4d4n_Cz0h691genPCwsiA.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_KikClOvSjiZr_1l31Qto6W801-aR7u1siMHuzp_54BI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_KikClOvSjiZr_1l31Qto6W801-aR7u1siMHuzp_54BI.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_LQNTY7PoicXxJ2HNxjGtdyDFdniIHxRIJ5eYt0CQXw8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_LQNTY7PoicXxJ2HNxjGtdyDFdniIHxRIJ5eYt0CQXw8.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_MZpcbA9Dyn0udGRmycu0BNcOeFcwcISRAYKDUurWIOk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_MZpcbA9Dyn0udGRmycu0BNcOeFcwcISRAYKDUurWIOk.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_OSWLFsmFt4A9MeBjjXhzzBmWXiwE5Np8aC8wl8_G6QQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_OSWLFsmFt4A9MeBjjXhzzBmWXiwE5Np8aC8wl8_G6QQ.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PIInFor8ao-evcnt9xdfXrHhSh_lXaJs3HxWmPZIRi8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PIInFor8ao-evcnt9xdfXrHhSh_lXaJs3HxWmPZIRi8.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PIjvTeXKAf09A_39G1Rxda71VAFeJbxXCuMqf778qTs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PIjvTeXKAf09A_39G1Rxda71VAFeJbxXCuMqf778qTs.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PkLELxrhAmSM6Ry1RmZ9cB2iEW3mRwoNgTfIA6NVYI0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_PkLELxrhAmSM6Ry1RmZ9cB2iEW3mRwoNgTfIA6NVYI0.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_TsN25qnutePWibG442ZVuRUkBE8cndGN7OROaajOnOo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_TsN25qnutePWibG442ZVuRUkBE8cndGN7OROaajOnOo.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Ueq4ELOD-1im9V7onWpWn8VLYbg3zDAUBEOLo7as9JI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Ueq4ELOD-1im9V7onWpWn8VLYbg3zDAUBEOLo7as9JI.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Vnu5sfVBAXlv1wB6FSWSRS-qH4LaHJzUEdRyax3pWwE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Vnu5sfVBAXlv1wB6FSWSRS-qH4LaHJzUEdRyax3pWwE.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Vrr6AKaiR5hyL-bOnFmCm072pa0LiwOTaj8V1FdsWwQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_Vrr6AKaiR5hyL-bOnFmCm072pa0LiwOTaj8V1FdsWwQ.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XZ--FH0XXehZCyGk7mxssZ-HvqJ1iDCMYIZaut9Cers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XZ--FH0XXehZCyGk7mxssZ-HvqJ1iDCMYIZaut9Cers.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XyHVZ_bVKKWWoE_0EfZg3dLxor7dqQwwHGrObsQDYeg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XyHVZ_bVKKWWoE_0EfZg3dLxor7dqQwwHGrObsQDYeg.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XySKZbWDnx64dWCxHIjtZV84xKQpM0ZYNu3-kKiixtM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_XySKZbWDnx64dWCxHIjtZV84xKQpM0ZYNu3-kKiixtM.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_YdGLovjgxFKNxUXENM6CMB5-sIyuih5z8pR2OjX5Rvw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_YdGLovjgxFKNxUXENM6CMB5-sIyuih5z8pR2OjX5Rvw.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ZgOX7RsYomTtjaHgAFjRV8nReqhb4guoQk9y7Al8xX8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ZgOX7RsYomTtjaHgAFjRV8nReqhb4guoQk9y7Al8xX8.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js__7E3PSbb5Cjfab-OU7e3bd4iSxat5X4c-Siq8nNCMxY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js__7E3PSbb5Cjfab-OU7e3bd4iSxat5X4c-Siq8nNCMxY.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js__majplcIkQoA3vZKcs_1Mb38NInWBsPt59_JvLuPGrI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js__majplcIkQoA3vZKcs_1Mb38NInWBsPt59_JvLuPGrI.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js__tVxdsE7GX1k4MVYjFdso6sutoyXOjdzE7vtyQcJzyQ.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js__tVxdsE7GX1k4MVYjFdso6sutoyXOjdzE7vtyQcJzyQ.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_aYq0-qTLOD4RnXwlSM5bvNPij0vbwjgsMRqIWCc8WMo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_aYq0-qTLOD4RnXwlSM5bvNPij0vbwjgsMRqIWCc8WMo.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_anYcLOphQAFU8p88Xi1vkYojpTnx4amr6di4_8SdmQE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_anYcLOphQAFU8p88Xi1vkYojpTnx4amr6di4_8SdmQE.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_b3JKyKd9nw7wVPiG9sosApr7VF1xOzuMaNOOtLp4X_4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_b3JKyKd9nw7wVPiG9sosApr7VF1xOzuMaNOOtLp4X_4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_bPPod73FMbiJCdjXRrCkd_uWZjlrTOnKvDHrkMYzMRY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_bPPod73FMbiJCdjXRrCkd_uWZjlrTOnKvDHrkMYzMRY.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_cAl9UFlX-ZS6oMdeOf8RnhJYs8xCcORRDm5xvXvPlHo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_cAl9UFlX-ZS6oMdeOf8RnhJYs8xCcORRDm5xvXvPlHo.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_d1JRT_PPc_LOkBYp7LWI1frF1qmSVNJbr2_1UVK0UA8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_d1JRT_PPc_LOkBYp7LWI1frF1qmSVNJbr2_1UVK0UA8.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_dSWw8wR3XAj5d49lUs_-M2_CfMtN9sAn_7OmyO_DMeY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_dSWw8wR3XAj5d49lUs_-M2_CfMtN9sAn_7OmyO_DMeY.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_dtRAMU3RrZIw75qJW3GsNdcxKAkXOPwdiWSVz3FOdbY.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_dtRAMU3RrZIw75qJW3GsNdcxKAkXOPwdiWSVz3FOdbY.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_eecMzEeDCkF46sTjcxY0AZTMD1ODcYxRXJtLb0ru7yQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_eecMzEeDCkF46sTjcxY0AZTMD1ODcYxRXJtLb0ru7yQ.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_g1svIJwp6DrFIwbdlSnt2FzRbu57Ioda_BYKsMXoEBU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_g1svIJwp6DrFIwbdlSnt2FzRbu57Ioda_BYKsMXoEBU.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_kHJuU7IZ9WAU8i252jRBIbpeb0bixXAe6lDXzxNqnE8.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_kHJuU7IZ9WAU8i252jRBIbpeb0bixXAe6lDXzxNqnE8.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ld8OyZzdlYL3kqLOslrEIbSmYB2SmrfLr4d6bkiuWcw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ld8OyZzdlYL3kqLOslrEIbSmYB2SmrfLr4d6bkiuWcw.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_lgWSmd1Z6uF0vN8cDr_QXgogXEk0wwwVM4Q6Rt55AiA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_lgWSmd1Z6uF0vN8cDr_QXgogXEk0wwwVM4Q6Rt55AiA.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_nbYGJybYGReOllvmw2cqh40ooTTU5uVTYWX1tEpzdKQ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_nbYGJybYGReOllvmw2cqh40ooTTU5uVTYWX1tEpzdKQ.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_rezA2aNYUil1E6v10BIKN5E1rHE7DgLT4mZR3s9e-wE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_rezA2aNYUil1E6v10BIKN5E1rHE7DgLT4mZR3s9e-wE.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_smxid2hTGR2CxzALezrPM0YBoq7iCXDwxngknPvnT7Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_smxid2hTGR2CxzALezrPM0YBoq7iCXDwxngknPvnT7Y.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_syVXRVJkhp1-QTmAkDeHNd3LdunRoPYMI2wChsFPpIw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_syVXRVJkhp1-QTmAkDeHNd3LdunRoPYMI2wChsFPpIw.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_u6Il34-EMpjIRSLI2cPixgcNOV56qM-cX_u8yP8FMmI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_u6Il34-EMpjIRSLI2cPixgcNOV56qM-cX_u8yP8FMmI.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_uTmYpE_j1iIMXq8_ObZuLH0tBYnpQgiuJ5GW5tVK_1Q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_uTmYpE_j1iIMXq8_ObZuLH0tBYnpQgiuJ5GW5tVK_1Q.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_urYbwMVE4WjBgK3Sco5hnUQIKLRbZ5xG4A24Fj3aJ1Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_urYbwMVE4WjBgK3Sco5hnUQIKLRbZ5xG4A24Fj3aJ1Y.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_v25Z6xpL9dvrWIuhHIXgVVtz09w8pj2nzZSG2m7livI.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_v25Z6xpL9dvrWIuhHIXgVVtz09w8pj2nzZSG2m7livI.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_v7iNa4qppR2JbooHylguNhUrnaUTy3nvac8L6fgNlu0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_v7iNa4qppR2JbooHylguNhUrnaUTy3nvac8L6fgNlu0.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_vGtlCGhQp_qVTRanfdx6DN9qB5kFZsBlYwKdV9vOv-E.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_vGtlCGhQp_qVTRanfdx6DN9qB5kFZsBlYwKdV9vOv-E.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_wm_LhRAS3Zhr0drz9qjyqLbw67vFKcu8Ah-6GdQK95k.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_wm_LhRAS3Zhr0drz9qjyqLbw67vFKcu8Ah-6GdQK95k.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_xzKvyqhNI-xnKQ1TOSblMNSEQZme4uiV6Dc_98zMnco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_xzKvyqhNI-xnKQ1TOSblMNSEQZme4uiV6Dc_98zMnco.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ymwxIymVX45dWTR9JQt_9f8lI0p8eaOYN44QPKWmyeA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_ymwxIymVX45dWTR9JQt_9f8lI0p8eaOYN44QPKWmyeA.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/js/js_zpP_oVpar8wH05vhEwOv753B_kMMGNhixyg1pfvGBnw.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/js/js_zpP_oVpar8wH05vhEwOv753B_kMMGNhixyg1pfvGBnw.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/files/php/twig/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-block-content.html._b3mAOGea5ertZ7RhEWzMERzHe/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-block-content.html._b3mAOGea5ertZ7RhEWzMERzHe/woAsrVSruXFYlO_LIxpsf3bI-w3F2nE6gks9yJUVkjM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-block.html.twig_SylCNwaXt_djhraT1VbZz9gqJ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-block.html.twig_SylCNwaXt_djhraT1VbZz9gqJ/R3IaI9qq4IW4VNgnXv5iULlW-T-NwQqy3KT8s0TAPBM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-page.html.twig_IHnH5GyXfgTAuciIKUE4GF6MT/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_admin-page.html.twig_IHnH5GyXfgTAuciIKUE4GF6MT/bwMk_Jlw2mlyI4Wv5Uiuu3iltHG1aeBIoE16But7Frk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block--local-tasks-block._HdzB3j_54KRXCC6CDQPwRGNSa/-7uQfecmR3nyteV_ip6PITwPjvARx4tVyLtgYLJfXVY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block--local-tasks-block._HdzB3j_54KRXCC6CDQPwRGNSa/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block--system-messages-bl_daLFAcAdSpYr16f5L5sXutqOw/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block--system-messages-bl_daLFAcAdSpYr16f5L5sXutqOw/oY0VSk69GDTFmplzCmnRCsTxrRfTTfdOyMdSpDhC3Dg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block.html.twig_-Y9lQeLcUj9C-USM59Nr5K0ol/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block.html.twig_-Y9lQeLcUj9C-USM59Nr5K0ol/RjkMgv-sZGkY4DjmTswkmmLuF8h_cA1h-YT7qiMVoM8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/nQjDK0tpYh7nBLwSF4Pr-DH7aYHVBJjUlHeyrwHzUZQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_breadcrumb.html.twig_bpT9qXxQz_4B9K3QemSggcJmT/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_breadcrumb.html.twig_bpT9qXxQz_4B9K3QemSggcJmT/pEbjyn0erZ2a6ld_iBMNFKhpvDtZLKKwSDNp1odspFg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_container.html.twig_rfHnd6nh4j6DURSSJWeHq0DMj/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_container.html.twig_rfHnd6nh4j6DURSSJWeHq0DMj/dCVdG14g-lJ2KdLLyjLmOosPs41_pvld2yVTb3wW8Co.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form-element-label.html.t_vLWSBbP1-XxgiB-qpDML0FKQJ/-b2x7-RotHX9cP0rm5xRP1mnEBZgZZOVf34fUUqCpGU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form-element-label.html.t_vLWSBbP1-XxgiB-qpDML0FKQJ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form-element.html.twig_O6NoU0EoFmDoj37tBbSjbrzAd/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form-element.html.twig_O6NoU0EoFmDoj37tBbSjbrzAd/WgTGfuGDii7J5tZsRMiCPFf5-tA7PBYgAObrMTEgiV0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form.html.twig__9ONbSgL_92LWBHfEVHJ3Wg-r/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_form.html.twig__9ONbSgL_92LWBHfEVHJ3Wg-r/TSF3LncVMqAyert0yBhFLZKV4WlfiWyRFUcvdp4NCTI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_html.html.twig_TcTIri8hSgVVCDHkn8loJzo9g/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_html.html.twig_TcTIri8hSgVVCDHkn8loJzo9g/71YjK74PlFnHipvuZVF5OKpDBv1VsDDzIRGlLbk1PPM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_input.html.twig_TJmn2HijHq6df7GKtNmqpfmlx/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_input.html.twig_TJmn2HijHq6df7GKtNmqpfmlx/WFvyiev-UntLXUg0nTy5KVwCVe2Dk2XFb-QT-Cv8t9k.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_links.html.twig_Y7DcQWYMt5GReuPPJ1NT-Td1K/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_links.html.twig_Y7DcQWYMt5GReuPPJ1NT-Td1K/1MD_nVIuMNVeheVaDW-pA9IaNEcsJ-UcNWsgIVp-2r4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_maintenance-page.html.twi_mFwfLW3CQoIOsuKCCsHvCtfov/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_maintenance-page.html.twi_mFwfLW3CQoIOsuKCCsHvCtfov/m23KhUVUvx42UB51tZ4-08TwIpx2kGhVuGl2WoWBtD8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_maintenance-task-list.htm_3tK0uvfWhgpTPlZWgdgdZtGBx/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_maintenance-task-list.htm_3tK0uvfWhgpTPlZWgdgdZtGBx/eRWLtEGcFZSs6Y2ihZHFj1SIzsEtyQIRhIKlsbNkbSo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu--toolbar.html.twig_BdXXQv3E4oQsu6xdPmLk6W33q/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu--toolbar.html.twig_BdXXQv3E4oQsu6xdPmLk6W33q/8FkP7wjc9bH4_Uigb1pP6BD04A52T2_OfRIHKwX3qb0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu-local-task.html.twig_Ccb-WV4d8OlqQdNTnrY6ZrCNW/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu-local-task.html.twig_Ccb-WV4d8OlqQdNTnrY6ZrCNW/j7WaSkFbXw-8L_uLgTeMTe-5LB1bdXmZ6Bf4zhTYz6A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu-local-tasks.html.twi_3xMsfbobaFThyvR4-5_xxyx4t/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_menu-local-tasks.html.twi_3xMsfbobaFThyvR4-5_xxyx4t/FMRzuzq9K2wVgIIkz1AT3G9ILodahvk0M3kdJB6ynZ0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_off-canvas-page-wrapper.h_6TsWv58wDFX-5vCJpKADMcCS-/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_off-canvas-page-wrapper.h_6TsWv58wDFX-5vCJpKADMcCS-/q1poz5INuBC_ZOqxkpaKSnAgjUkZLDTBVqPXni1yvUI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_page-title.html.twig_Bge8UrkreLB-XNBWLglYKdiaB/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_page-title.html.twig_Bge8UrkreLB-XNBWLglYKdiaB/x-PD043ywKrz1X9JXLw9KTmpk8iy7-a2jzVjBAKB87M.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_page.html.twig_5hMjB19CwTb0nWUt_WbG4tYqu/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_page.html.twig_5hMjB19CwTb0nWUt_WbG4tYqu/By-sbCbK8i10ywoewba7eIb9vNoqdaCN42KRnWqPDz4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_region.html.twig_thpT6ZawWH98HPnWXVwj4opVl/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_region.html.twig_thpT6ZawWH98HPnWXVwj4opVl/vhGKVQC0bF3ciivtZO1mQIWZ8JvNK7BybGfsbB2c2Wk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_select.html.twig_nzxoPZ9BAboCpITxa-GDl-nWi/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_select.html.twig_nzxoPZ9BAboCpITxa-GDl-nWi/B01XGnyE_8f8_iOijW0RZlv4NwoFdDNwhx9S-CKinGc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_table.html.twig_MLgNHrxNUNqyurS253e4ubj4X/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_table.html.twig_MLgNHrxNUNqyurS253e4ubj4X/fW7LS6NpSHdSOzBTTh8ah3E84Jbewnm6OKAt5152dd0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_textarea.html.twig_6TlljzWtIylUQzZgauhyNpS1H/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_textarea.html.twig_6TlljzWtIylUQzZgauhyNpS1H/qWhyg3zBfF2gpVV6QyhIDqD9_dpp2Zl6sFW8lz_gzgU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_toolbar.html.twig_QEecfLCN-qHxLbkjFkEtbaph_/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5c6ffc0ee4edd_toolbar.html.twig_QEecfLCN-qHxLbkjFkEtbaph_/7MZ1i1-IpwBxQtYjPidXxvHvL3jHft4fy3deU-RLAWc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_breadcrumbs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_content.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_help.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_local_actions.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_login.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_messages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_page_title.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_primary_local_tasks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/config/optional/block.block.adminimal_theme_secondary_local_tasks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/css/adminimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/images/caret-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-down-hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/adminimal_theme/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/color/color.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/color/preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/color/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/color/preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/config/install/mayo.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/config/schema/mayo.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/admin-layout-settings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/black-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/ckeditor-iframe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/colors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/maintenance-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/messages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/arrow-down-lite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/arrow-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/arrow-right-lite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/arrow-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/base-layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/black-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/button-o.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/button.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-1-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-2-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-3-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/fontsizer-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/header-layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/application-octet-stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/application-pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/application-x-executable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/audio-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/forum-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/image-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/package-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/text-html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/text-plain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/text-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/text-x-script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/video-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/x-office-document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/x-office-presentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/icons/x-office-spreadsheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/lite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/menu-collapsed-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/menu-collapsed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/menu-expanded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/menubar-type.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/page-layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/page-layouts-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/pat-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/round-corners.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/search-submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/sf-arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/sidebar-layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/spam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/tabs-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/unpublished.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/images/watermark-sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/forms/mayo.submit.builders.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/forms/mayo.submit.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/forms/mayo.submit.responsive.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/forms/mayo.validate.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/get.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/inc/plugins.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/js/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/js/mayo-columns.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/js/mayo-fontsize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/js/mayo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/_README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/one_col_stack/one_col_stack.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/one_col_vert/one_col_vert.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/three_col_grail/three_col_grail.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/two_sidebars_left/two_sidebars_left.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/two_sidebars_left_stack/two_sidebars_left_stack.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/two_sidebars_right/two_sidebars_right.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/layouts/core/two_sidebars_right_stack/two_sidebars_right_stack.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/mayo.breakpoints.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/mayo.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/mayo.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/mayo.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/mayo_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/admin-layout-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/black-menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_book-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_list-menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_mobile-first.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_primary-menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_responsive-media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_style-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/partials/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/block--local-tasks-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/block--system-branding-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/block--system-menu-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/breadcrumb.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/comment.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/field--node--title.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/field.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/file-link.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/form/input.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/form/textarea.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/input--search.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/item-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/maintenance-page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/menu--main.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/menu-local-task.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/menu-local-tasks.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/menu.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/navigation/book-all-books-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/navigation/book-navigation.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/navigation/book-tree.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/node.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/page-title.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/region.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/status-messages.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-exposed-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-mini-pager.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-grid.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-grouping.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-mapping-test.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-opml.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-row-opml.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-row-rss.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-rss.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-summary-unformatted.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-summary.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-table.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view-unformatted.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/templates/views/views-view.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mayo/theme-settings.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/field.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/mayo.info.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/mayo.theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="315" column="5" selection-start-line="315" selection-start-column="5" selection-end-line="315" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/css/swiper.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="701">
+              <caret line="653" column="74" lean-forward="true" selection-start-line="653" selection-start-column="74" selection-end-line="653" selection-end-column="74" />
+              <folding>
+                <element signature="e#5845#6103#2" expanded="true" />
+                <element signature="e#6221#6479#2" expanded="true" />
+                <element signature="e#6637#6895#2" expanded="true" />
+                <element signature="e#7024#7282#2" expanded="true" />
+                <element signature="e#7411#7669#2" expanded="true" />
+                <element signature="e#7798#8056#2" expanded="true" />
+                <element signature="e#15951#17398#2" expanded="true" />
+                <element signature="e#17544#18988#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/node--view--swiper-main-slider--block-1.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/block.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/block--views-block--swiper-main-slider-block-1.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/node.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="85" column="20" selection-end-line="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/field--paragraph--slide.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>personal-drupal.com</find>
+      <find>www</find>
+      <find>personal</find>
+      <find>debian</find>
+      <find>localhost</find>
+      <find>base</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/commands.js" />
+        <option value="$USER_HOME$/Desktop/Books/commands.php" />
+        <option value="F:/commands.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/sites/default/settings.php" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/js/swiper.js" />
+        <option value="$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/js/swiper_config.js" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/my_mayo.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/field--node--swiper-slider.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/paragraph--slide.html" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/field--paragraph--slide.html.twig" />
+        <option value="$PROJECT_DIR$/themes/contrib/mayo/templates/field.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/paragraph--slide.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/node--view--swiper-main-slider--block-1.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/block--views-block--swiper-main-slider-block-1.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/my_mayo/css/swiper.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/output-formatters" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/log" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/filter-via-dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/site-alias" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/site-process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/annotated-command" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/robo" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/self-update" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/grasmash/yaml-expander" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/grasmash/expander" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/cweagans/composer-patches" />
+      <path value="$PROJECT_DIR$/vendor/chi-teck/drupal-code-generator" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/league/container" />
+      <path value="$PROJECT_DIR$/vendor/drush/drush" />
+      <path value="$PROJECT_DIR$/vendor/oomphinc/composer-installers-extender" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/path-util" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/webflo/drupal-finder" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/brumann/polyfill-unserialize" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-feed" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="258" />
+    <option name="width" value="1665" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="paragraphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="paragraphs" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+              <item name="mayo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+              <item name="mayo" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="my_mayo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="my_mayo" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="my_mayo" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="my_mayo" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="paragraphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myDrupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myDrupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="my_mayo" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="paragraphs" type="462c0819:PsiDirectoryNode" />
+              <item name="swiper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\debian\server\myDrupal\themes\custom\my_mayo\templates\paragraphs\swiper" />
+      <recent name="C:\debian\server\myDrupal\themes\custom\my_mayo\templates\paragraphs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\" />
+      <recent name="C:\Users\Kyle\Desktop\Code" />
+      <recent name="C:\Users\Kyle\Desktop\Books" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="077a3137-a0ca-4edf-a9d1-3ae9bbb70a34" name="Default Changelist" comment="" />
+      <created>1553639471776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553639471776</updated>
+      <workItem from="1553639490465" duration="1364000" />
+      <workItem from="1553640977483" duration="26917000" />
+      <workItem from="1554426062383" duration="645000" />
+      <workItem from="1554427272874" duration="946000" />
+      <workItem from="1554514503973" duration="10233000" />
+      <workItem from="1554653633260" duration="5308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45413000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="258" y="0" width="1665" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1894081" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.50328225" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.34792122" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Code/commands.php" />
+    <entry file="file://$USER_HOME$/Desktop/Books/commands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/commands.js" />
+    <entry file="file://F:/commands.php" />
+    <entry file="file://$PROJECT_DIR$/sites/default/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="777" column="34" selection-start-line="777" selection-start-column="34" selection-end-line="777" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="8084" lean-forward="true" selection-start-line="8084" selection-end-line="8084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/paragraph--slide.html.twig" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/my_mayo.info.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/my_mayo.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/js/swiper_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/mayo.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/field--node--swiper-slider.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/mayo.info.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/mayo.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="315" column="5" selection-start-line="315" selection-start-column="5" selection-end-line="315" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/field.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/field--paragraph--slide.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/paragraph--slide.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="85" column="20" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/node--view--swiper-main-slider--block-1.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/mayo/templates/block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/templates/paragraphs/swiper/block--views-block--swiper-main-slider-block-1.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/my_mayo/css/swiper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="653" column="74" lean-forward="true" selection-start-line="653" selection-start-column="74" selection-end-line="653" selection-end-column="74" />
+          <folding>
+            <element signature="e#5845#6103#2" expanded="true" />
+            <element signature="e#6221#6479#2" expanded="true" />
+            <element signature="e#6637#6895#2" expanded="true" />
+            <element signature="e#7024#7282#2" expanded="true" />
+            <element signature="e#7411#7669#2" expanded="true" />
+            <element signature="e#7798#8056#2" expanded="true" />
+            <element signature="e#15951#17398#2" expanded="true" />
+            <element signature="e#17544#18988#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
